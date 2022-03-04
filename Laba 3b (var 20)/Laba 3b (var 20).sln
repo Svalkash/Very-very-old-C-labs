@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laba 3b (var 20)", "Laba 3b (var 20)\Laba 3b (var 20).vcxproj", "{43E90476-2A56-4D33-A170-326253F2019A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43E90476-2A56-4D33-A170-326253F2019A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{43E90476-2A56-4D33-A170-326253F2019A}.Debug|Win32.Build.0 = Debug|Win32
+		{43E90476-2A56-4D33-A170-326253F2019A}.Release|Win32.ActiveCfg = Release|Win32
+		{43E90476-2A56-4D33-A170-326253F2019A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

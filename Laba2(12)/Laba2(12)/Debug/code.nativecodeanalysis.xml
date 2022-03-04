@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>c:\svalkash_files\programs (2)\laba2(12)\laba2(12)\</FILEPATH><FILENAME>code.c</FILENAME><LINE>23</LINE><COLUMN>7</COLUMN></SFA><DEFECTCODE>6340</DEFECTCODE><DESCRIPTION>Несоответствие при подписи: "unsigned int" передан в качестве параметра _Param_(2), хотя при вызове "printf" требуется некоторый тип "signed".</DESCRIPTION><FUNCTION>main</FUNCTION><DECORATED>main</DECORATED><FUNCLINE>20</FUNCLINE><PATH/></DEFECT></DEFECTS>

@@ -1,0 +1,14 @@
+﻿Сборка начата 28.03.2018 22:52:50.
+     1>Проект "D:\SVALKASH_FILES\Programs (2)\VS 2013\Laba 4b (var32)\Laba 4b (var32)\Laba 4b (var32).vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt L4b_Code.c
+         L4b_Code.c
+     1>d:\svalkash_files\programs (2)\vs 2013\laba 4b (var32)\laba 4b (var32)\l4b_code.c(389): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\SVALKASH_FILES\Programs (2)\VS 2013\Laba 4b (var32)\Debug\Laba 4b (var32).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\SVALKASH_FILES\Programs (2)\VS 2013\Laba 4b (var32)\Debug\Laba 4b (var32).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\SVALKASH_FILES\Programs (2)\VS 2013\Laba 4b (var32)\Debug\Laba 4b (var32).lib" /MACHINE:X86 Debug\L4b_Code.obj
+         Laba 4b (var32).vcxproj -> D:\SVALKASH_FILES\Programs (2)\VS 2013\Laba 4b (var32)\Debug\Laba 4b (var32).exe
+     1>Сборка проекта "D:\SVALKASH_FILES\Programs (2)\VS 2013\Laba 4b (var32)\Laba 4b (var32)\Laba 4b (var32).vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.43
